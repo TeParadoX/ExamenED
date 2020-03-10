@@ -8,8 +8,8 @@ public interface doc
 {
 
     /** Devuelve el contenido de la fila x del fichero de texto con ruta absoluta file.
-     * @param String  
-     * @param int
+     * @param String , int
+     * 
      * @return String
      *
      */
